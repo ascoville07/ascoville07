@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**ascoville07/ascoville07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on obtaining my Bachelors degree in aerospace engineering
 - 🌱 I’m currently learning aerospace engineering and statistical analysis
 - 👯 I’m looking to collaborate on anything!
